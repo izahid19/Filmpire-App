@@ -1,4 +1,4 @@
-# Filmpire  [Demo](https://github.com/facebook/create-react-app).
+# Filmpire App  [Demo](https://github.com/facebook/create-react-app).
 
 ![App Screenshot](src/assets/images/Filmpire.jpg)
 
