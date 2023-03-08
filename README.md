@@ -1,4 +1,4 @@
-# Filmpire App  [Demo](filmpirex.netlify.app/).
+# Filmpire App  [Demo](https://filmpirex.netlify.app/).
 
 ![App Screenshot](src/assets/images/Filmpire.jpg)
 
